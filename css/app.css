@@ -1,0 +1,27 @@
+.text-white {
+    color: white;
+}
+
+.btn {
+    border-radius: 4px;
+    -ms-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    box-shadow: 2px 2px 5px rgba(22,22,22,0.7);
+    height: 40px;
+    width: 100px;
+    display: block;
+    margin: 5% auto;
+}
+
+.btn-primary {
+    background: linear-gradient(rgba(200,200,200,1), rgba(50,50,250,1));
+}
+form select,
+form input {
+    display: block;
+    margin: 3% auto;
+}
+form label {
+    padding-left: 10px;
+}
